@@ -1,8 +1,7 @@
 # GalleryMaker
 
-Make a galerie simple web page using bash programming
+Make a gallery simple web page using bash programming
 
 Use these commands:
-
-sudo chmod +x galerie.sh
-./galerie <web_page_name> (Ex. ./galerie pictures)
+  - sudo chmod +x gallery.sh
+  - ./gallery <web_page_name>  (Ex. ./gallery pictures)
